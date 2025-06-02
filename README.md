@@ -2,7 +2,7 @@
 
 This is a learning clone of the Angry Birds game, written in C++ using the SFML and Box2D libraries.
 
-##Screenshot
+## Screenshot
 ![MainMenuScreen](https://github.com/user-attachments/assets/c7d918e6-09bb-46c5-beba-1f4b4d3f94b8)
 
 ## Features
